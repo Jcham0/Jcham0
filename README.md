@@ -21,4 +21,4 @@ Python · Django · SQLite · Django ORM · Pandas · Matplotlib · Tailwind CSS
 ## 📫 Contacto
 
 - Email: jchamo12345@gmail.com
-- Portfolio: en camino...
+
