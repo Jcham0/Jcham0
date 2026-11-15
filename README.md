@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologías
 
-Python · Django · SQLite · Django ORM · Pandas · Matplotlib · Tailwind CSS · Git y GitHub
+Python · Django · SQLite · Pandas · Matplotlib ·  Git y GitHub
 
 **Herramientas de apoyo:** GitHub Copilot (desarrollo asistido por IA), VS Code
 
