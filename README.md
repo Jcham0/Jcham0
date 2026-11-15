@@ -10,7 +10,7 @@ Python · Django · SQLite · Django ORM · Pandas · Matplotlib · Tailwind CSS
 
 ## 🌍 Idiomas
 
-- Español: Expert
+- Español: Nativo
 - Inglés: A2
 
 ## 📂 Proyectos
