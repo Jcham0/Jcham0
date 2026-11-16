@@ -1,6 +1,6 @@
-# Hola, soy Jchamo7 👋
+# Hola, soy Jchamo
 
-**Desarrollador Python/Django junior**, alumno de **Tokio School**, en busca de mi primera oportunidad profesional en busca de mi primera oportunidad profesional en desarrollo web backend.
+**Desarrollador Python/Django junior**
 
 ## 🛠️ Tecnologías
 
