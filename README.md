@@ -28,7 +28,7 @@ Sistema académico y de control de calificaciones construido con **Django**.
 
 ## 🌍 Idiomas
 
-**Inglés:** (Cursando - B1)
+**Inglés:** Nivel A2 (Cursando - B1)
 ---
 
 ## 📫 Contacto & Enlaces
