@@ -1,6 +1,7 @@
 # Hola, soy Juan Antonio 👋 | Python & Backend Developer
 
-¡Bienvenido a mi perfil de GitHub!Soy un desarrollador enfocado en la construcción de soluciones backend y la integración de herramientas de análisis de datos e inteligencia artificial. 
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador enfocado en la construcción de soluciones backend y la integración de herramientas de análisis de datos e inteligencia artificial. 
+
 ---
 ## 🛠️ Stack Tecnológico
 
@@ -27,7 +28,7 @@ Sistema académico y de control de calificaciones construido con **Django**.
 
 ## 🌍 Idiomas
 
-**Inglés:** Nivel A2 (Cursando-B1)
+**Inglés:** (Cursando - B1)
 ---
 
 ## 📫 Contacto & Enlaces
