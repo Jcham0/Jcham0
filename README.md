@@ -1,4 +1,4 @@
-# Hola, soy Juan Antonio
+# Hola, soy Juan Antonio 👋
 
 **Desarrollador Python/Django junior**
 
